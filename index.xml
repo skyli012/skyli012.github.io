@@ -9,11 +9,11 @@
         <copyright>Sky_li</copyright>
         <lastBuildDate>Wed, 11 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://skyli012.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>算法模板</title>
-        <link>https://skyli012.github.io/p/test-chinese/</link>
+        <link>https://skyli012.github.io/p/%E7%AE%97%E6%B3%95%E6%A8%A1%E6%9D%BF/</link>
         <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
         
-        <guid>https://skyli012.github.io/p/test-chinese/</guid>
-        <description>&lt;img src="https://skyli012.github.io/helena-hertz-wWZzXlDpMog-unsplash.jpg" alt="Featured image of post 算法模板" /&gt;&lt;p&gt;算法模板指的是一类具有通用性的算法实现框架，通过明确步骤和固定结构，可以快速解决某类问题。它强调抽象和模块化，使开发者在实际应用中能迅速适配具体场景，减少重复劳动，提高编程效率。例如，排序算法、动态规划、搜索算法、字符串匹配算法等，都可以通过模板化的思路整理出常用的解决流程。&lt;/p&gt;
+        <guid>https://skyli012.github.io/p/%E7%AE%97%E6%B3%95%E6%A8%A1%E6%9D%BF/</guid>
+        <description>&lt;img src="https://skyli012.github.io/pawel-czerwinski-8uZPynIu-rQ-unsplash.jpg" alt="Featured image of post 算法模板" /&gt;&lt;p&gt;算法模板指的是一类具有通用性的算法实现框架，通过明确步骤和固定结构，可以快速解决某类问题。它强调抽象和模块化，使开发者在实际应用中能迅速适配具体场景，减少重复劳动，提高编程效率。例如，排序算法、动态规划、搜索算法、字符串匹配算法等，都可以通过模板化的思路整理出常用的解决流程。&lt;/p&gt;
 &lt;p&gt;应用场景包括竞赛编程、工程项目开发、算法教学等领域，是算法学习和实践中的重要工具。&lt;/p&gt;
 &lt;h2 id=&#34;字符串算法&#34;&gt;字符串算法
 &lt;/h2&gt;&lt;p&gt;字符串算法是计算机科学中的重要研究领域，广泛应用于文本处理、自然语言处理、搜索引擎、生物信息学等场景。&lt;/p&gt;

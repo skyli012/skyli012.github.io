@@ -41,13 +41,32 @@
                 href="https://skyli012.github.io/post/"
                 />
   </url><url>
+    <loc>https://skyli012.github.io/tags/</loc>
+    <lastmod>2024-12-11T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://skyli012.github.io/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://skyli012.github.io/tags/"
+                />
+  </url><url>
+    <loc>https://skyli012.github.io/tags/%E6%A8%A1%E6%9D%BF/</loc>
+    <lastmod>2024-12-11T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://skyli012.github.io/categories/%E6%A8%A1%E6%9D%BF/</loc>
+    <lastmod>2024-12-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://skyli012.github.io/tags/%E7%AE%97%E6%B3%95/</loc>
     <lastmod>2024-12-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://skyli012.github.io/categories/%E7%AE%97%E6%B3%95/</loc>
     <lastmod>2024-12-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://skyli012.github.io/p/test-chinese/</loc>
+    <loc>https://skyli012.github.io/p/%E7%AE%97%E6%B3%95%E6%A8%A1%E6%9D%BF/</loc>
     <lastmod>2024-12-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://skyli012.github.io/p/myfirstblog/</loc>
@@ -112,19 +131,6 @@
   </url><url>
     <loc>https://skyli012.github.io/categories/syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://skyli012.github.io/tags/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://skyli012.github.io/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://skyli012.github.io/tags/"
-                />
   </url><url>
     <loc>https://skyli012.github.io/tags/themes/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
