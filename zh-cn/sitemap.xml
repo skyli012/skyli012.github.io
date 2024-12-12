@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://skyli012.github.io/</loc>
-    <lastmod>2024-12-11T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-12T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -16,7 +16,7 @@
                 />
   </url><url>
     <loc>https://skyli012.github.io/categories/</loc>
-    <lastmod>2024-12-11T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-12T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -28,8 +28,17 @@
                 href="https://skyli012.github.io/categories/"
                 />
   </url><url>
+    <loc>https://skyli012.github.io/tags/english/</loc>
+    <lastmod>2024-12-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://skyli012.github.io/categories/english/</loc>
+    <lastmod>2024-12-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://skyli012.github.io/p/english/</loc>
+    <lastmod>2024-12-12T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://skyli012.github.io/post/</loc>
-    <lastmod>2024-12-11T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-12T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -42,7 +51,7 @@
                 />
   </url><url>
     <loc>https://skyli012.github.io/tags/</loc>
-    <lastmod>2024-12-11T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-12T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -55,10 +64,10 @@
                 />
   </url><url>
     <loc>https://skyli012.github.io/tags/%E6%A8%A1%E6%9D%BF/</loc>
-    <lastmod>2024-12-11T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://skyli012.github.io/categories/%E6%A8%A1%E6%9D%BF/</loc>
-    <lastmod>2024-12-11T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://skyli012.github.io/tags/%E7%AE%97%E6%B3%95/</loc>
     <lastmod>2024-12-11T00:00:00+00:00</lastmod>
